@@ -9,6 +9,13 @@ p {
     text-align: justify;
 }
 
+p1 {
+    color: blue;
+}
+
+img {
+}
+
 ul {
     list-style-type: none;
     margin: 0;
